@@ -7,11 +7,11 @@ var controller = new ScrollMagic.Controller({
   vertical: false
 });
 
-scene_object = {
-  '[scene-name]' : {
-    '[target-scene-id]' : '[anchor-href-value]'
-  }
-}
+// scene_object = {
+//   '[scene-name]' : {
+//     '[target-scene-id]' : '[anchor-href-value]'
+//   }
+// }
 
 var scenes = {
   'intro': {
